@@ -1,0 +1,6 @@
+apic:
+  url: "https://apic.example.com"
+  username: "admin"
+  password: "test"
+  verify_ssl: false
+new_tenant: "Tenant_Dev"
